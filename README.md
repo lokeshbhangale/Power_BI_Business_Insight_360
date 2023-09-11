@@ -24,7 +24,11 @@ Data-driven decisions are poised to steer our organization towards a prosperous 
 
 🔍 **Key Insights:**
 **Maximizing Profitability:** Achieved a significant Gross Margin % of 48.55%, indicating a strong potential for profit optimization across segments.
+
 **Strategic Focus:** Identified PC division and Retailer channel as revenue powerhouses, accounting for 61.33% and 71.53% respectively.
+
 **Operational Precision:** Addressing forecast accuracy challenges at Unity Store (8.32%) to ensure smoother supply chain operations.
+
 **Global Perspective:** APAC region presents an opportunity for targeted marketing strategies to enhance profitability.
+
 The intuitive toggle feature and bookmarks streamline navigation, ensuring a seamless user experience. Overcoming data challenges, we ensured accuracy through rigorous cross-verification and transformation.
