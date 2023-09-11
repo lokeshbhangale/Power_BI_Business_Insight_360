@@ -1,5 +1,6 @@
 # Power_BI_Business_Insight_360
 
+**Dashboard Link:-->** https://app.powerbi.com/Redirect?action=OpenApp&appId=476bf13c-7a11-4652-900a-e3861d0e21df&ctid=48d4d18b-97be-41b7-be2e-d6b56c5bae35  
 🔍 This dynamic dashboard suite offers tailored insights for various teams:
 
 1️⃣ **Finance View:**
