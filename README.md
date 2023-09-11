@@ -23,6 +23,7 @@ Proactive measures are underway to enhance accuracy and precision
 Data-driven decisions are poised to steer our organization towards a prosperous future.
 
 🔍 **Key Insights:**
+
 **Maximizing Profitability:** Achieved a significant Gross Margin % of 48.55%, indicating a strong potential for profit optimization across segments.
 
 **Strategic Focus:** Identified PC division and Retailer channel as revenue powerhouses, accounting for 61.33% and 71.53% respectively.
