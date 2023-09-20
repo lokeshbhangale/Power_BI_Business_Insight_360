@@ -1,6 +1,6 @@
 # Power_BI_Business_Insight_360
 
-**Dashboard Link:-->** https://app.powerbi.com/view?r=eyJrIjoiZjA2YjlhNGUtYWY1ZC00M2ZkLTk1YmMtYjA4ZTFlNTBkZmFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
+**Live Dashboard Link:-->** https://app.powerbi.com/view?r=eyJrIjoiZjA2YjlhNGUtYWY1ZC00M2ZkLTk1YmMtYjA4ZTFlNTBkZmFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
 🔍 This dynamic dashboard suite offers tailored insights for various teams:
 
 1️⃣ **Finance View:**
