@@ -1,36 +1,70 @@
-# Power_BI_Business_Insight_360
+# Business_Insight_360
 
-**Live Dashboard Link:-->** https://app.powerbi.com/view?r=eyJrIjoiZjA2YjlhNGUtYWY1ZC00M2ZkLTk1YmMtYjA4ZTFlNTBkZmFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
-🔍 This dynamic dashboard suite offers tailored insights for various teams:
+## Overview
+The Business Insights 360 Project is a comprehensive data visualization project created using Power BI. It provides stakeholders with real-time insights tailored to their specific needs. The project includes five main views: Finance, Sales, Marketing, Supply Chain, and Executive. Each view focuses on key metrics and KPIs to facilitate data-driven decision-making.
 
-1️⃣ **Finance View:**
-Optimization of Gross Margin %: Achieved a remarkable **48.55%**
-Uncovered areas for improvement in Net Profit %, revealing **-11.07%**
-Identified Novus as a case study with lowest GM% of **21.49%**
+## Features
 
-2️⃣ **Sales View:**
-PC division leads the charge, contributing a significant **61.33%** of total revenue
-Retailer channel dominance stands strong at an impressive **71.53%**
+### Finance View:
 
-3️⃣ **Marketing View:**
-APAC region presents an opportunity for strategic enhancement, with a net profit of **-14.62%**
-Gross Margin % insights provide a path towards profitability optimization
+P&L analysis by region and segment
 
-4️⃣ **Supply Chain View:**
-Unity Store's forecast accuracy of **8.32%** signifies a potential area for operational refinement
-Proactive measures are underway to enhance accuracy and precision
+YoY sales change for strategic planning
 
-5️⃣ **Executive View:**
-Data-driven decisions are poised to steer our organization towards a prosperous future.
+Highest Gross Margin % achieved: **48.55%**
 
-🔍 **Key Insights:**
+Lowest GM% (Novus): **21.49%**
 
-**Maximizing Profitability:** Achieved a significant Gross Margin % of 48.55%, indicating a strong potential for profit optimization across segments.
+Net Profit %: **-11.07%**
 
-**Strategic Focus:** Identified PC division and Retailer channel as revenue powerhouses, accounting for 61.33% and 71.53% respectively.
+### Sales View:
 
-**Operational Precision:** Addressing forecast accuracy challenges at Unity Store (8.32%) to ensure smoother supply chain operations.
+Net sales, gross margin %, and total COGS by customer, segment, and division
 
-**Global Perspective:** APAC region presents an opportunity for targeted marketing strategies to enhance profitability.
+PC division leads revenue generation at **61.33%**
 
-The intuitive toggle feature and bookmarks streamline navigation, ensuring a seamless user experience. Overcoming data challenges, we ensured accuracy through rigorous cross-verification and transformation.
+Retailer channel dominance: **71.53%**
+
+### Marketing View:
+
+Net profit % and gross margin % by segment, region, and division
+
+APAC region faces profitability challenges with a net profit of **-14.62%**
+
+### Supply Chain View:
+
+Forecast accuracy, net error, and absolute error by customer and segment
+
+Lowest forecast accuracy (Unity Store): **8.32%**
+
+### Executive View:
+
+Yearly trends in revenue, GM%, NP%, and market share %
+
+Segment revenue insights and channel performance
+
+## Insights
+
+### Maximizing Profitability:
+
+Achieved a significant Gross Margin % of **48.55%**, indicating a strong potential for profit optimization across segments.
+
+### Strategic Focus:
+
+Identified PC division and Retailer channel as revenue powerhouses, accounting for **61.33%** and **71.53%** respectively.
+
+### Operational Precision:
+
+Addressing forecast accuracy challenges at Unity Store **(8.32%)** to ensure smoother supply chain operations.
+
+### Global Perspective:
+
+APAC region presents an opportunity for targeted marketing strategies to enhance profitability.
+
+## Live Dashboard
+
+1. Explore the live dashboards [here](https://app.powerbi.com/view?r=eyJrIjoiZjA2YjlhNGUtYWY1ZC00M2ZkLTk1YmMtYjA4ZTFlNTBkZmFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+2. Open the link above to access the interactive dashboards.
+
+3. Use the toggle buttons and bookmarks for seamless navigation between views.
